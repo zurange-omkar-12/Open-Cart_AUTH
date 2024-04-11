@@ -4,9 +4,7 @@
   <artifactId>Open_Cart_Test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  
-  
-  
+
   <build>
     <pluginManagement>
       <plugins>
